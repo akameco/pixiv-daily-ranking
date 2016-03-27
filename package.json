@@ -1,0 +1,40 @@
+{
+  "name": "pixiv-daily-ranking",
+  "version": "0.0.1",
+  "description": "fetch links pixiv daily ranking",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "author": "akameco <akameco.t@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "got": "^6.2.0",
+    "term-img": "^0.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "xo": "^0.13.0"
+  },
+  "keywords": [
+    "pixiv",
+    "image",
+    "fun",
+    "cute",
+    "love",
+    "Pixiv",
+    "絵師",
+    "萌",
+    "イラストdaily",
+    "ranking"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akameco/pixiv-daily-ranking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akameco/pixiv-daily-ranking/issues"
+  },
+  "homepage": "https://github.com/akameco/pixiv-daily-ranking#readme"
+}
