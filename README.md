@@ -1,4 +1,4 @@
-# pixiv-daily-ranking [![Build Status](https://travis-ci.org/akameco/pixiv-daily-rankingsvg?branch=master)](https://travis-ci.org/akameco/pixiv-daily-ranking)
+# pixiv-daily-ranking [![Build Status](https://travis-ci.org/akameco/pixiv-daily-ranking.svg?branch=master)](https://travis-ci.org/akameco/pixiv-daily-ranking)
 
 > get links pixiv daily ranking
 
